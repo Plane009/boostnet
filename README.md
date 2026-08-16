@@ -1,2 +1,1 @@
-# boostnet
-BoostNet 官网
+# BoostNet 官网
