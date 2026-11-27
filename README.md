@@ -1,6 +1,6 @@
 # BoostNet 官网
 
-BoostNet 官网入口：[点击进入 BoostNet 官网](https://aff.kitdude.com/boostnet)
+BoostNet 官网入口：[点击进入 BoostNet 官网](https://aff.kitdude.com/boostnet?utm_source=github.com%2FPlane009%2Fboostnet&utm_content=article_inline)
 
 BoostNet 是主打专线出国和多平台客户端的机场服务，提供 20 GB 轻量年付、200–1,000 GB 月付以及 1,500 GB 企业团队套餐。常规套餐支持 5 台设备，企业套餐支持 30 台设备，适合个人、家庭和团队按实际流量选择。
 
@@ -45,7 +45,7 @@ BoostNet 的套餐以流量和设备数量为主要区别。20 GB 年付套餐�
 
 ### BoostNet 官网地址是什么？
 
-BoostNet 官网入口为：[https://aff.kitdude.com/boostnet](https://aff.kitdude.com/boostnet)。
+BoostNet 官网入口为：[https://aff.kitdude.com/boostnet](https://aff.kitdude.com/boostnet?utm_source=github.com%2FPlane009%2Fboostnet&utm_content=article_inline)。
 
 ### BoostNet 支持多少台设备？
 
@@ -61,4 +61,4 @@ BoostNet 官网入口为：[https://aff.kitdude.com/boostnet](https://aff.kitdud
 
 ## 进入 BoostNet 官网
 
-[点击进入 BoostNet 官网，查看个人与企业套餐](https://aff.kitdude.com/boostnet)
+[点击进入 BoostNet 官网，查看个人与企业套餐](https://aff.kitdude.com/boostnet?utm_source=github.com%2FPlane009%2Fboostnet&utm_content=article_inline)
